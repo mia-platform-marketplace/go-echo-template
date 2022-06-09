@@ -6,7 +6,7 @@ require (
 	github.com/caarlos0/env/v6 v6.8.0
 	github.com/davidebianchi/gswagger v0.3.0
 	github.com/getkin/kin-openapi v0.87.0
-	github.com/labstack/echo/v4 v4.6.1
+	github.com/labstack/echo/v4 v4.7.2
 	github.com/mia-platform/glogger v1.0.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
