@@ -1,6 +1,6 @@
 module mia_template_service_name_placeholder
 
-go 1.17
+go 1.18
 
 require (
 	github.com/caarlos0/env/v6 v6.8.0
