@@ -3,7 +3,7 @@ module mia_template_service_name_placeholder
 go 1.18
 
 require (
-	github.com/caarlos0/env/v6 v6.8.0
+	github.com/caarlos0/env/v6 v6.10.0
 	github.com/davidebianchi/gswagger v0.3.0
 	github.com/getkin/kin-openapi v0.87.0
 	github.com/labstack/echo/v4 v4.6.1
