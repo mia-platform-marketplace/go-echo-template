@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/davidebianchi/gswagger v0.3.0
-	github.com/getkin/kin-openapi v0.112.0
+	github.com/getkin/kin-openapi v0.115.0
 	github.com/labstack/echo/v4 v4.6.1
 	github.com/mia-platform/glogger v1.0.0
 	github.com/sirupsen/logrus v1.8.1
@@ -30,6 +30,7 @@ require (
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
+	github.com/perimeterx/marshmallow v1.1.4 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
