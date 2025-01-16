@@ -4,6 +4,8 @@
 [![Go Report Card][go-report-card]][go-report-card-link]
 [![Coverage Status][coverall-svg]][coverall-io]
 
+> ⚠️ Warning: This repository is no longer maintained.
+
 This walkthrough will explain you how to correctly create a microservice based on our Go Template from the DevOps Console.
 
 ## Create a microservice
